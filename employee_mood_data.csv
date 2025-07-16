@@ -1,0 +1,37 @@
+employee_id,timestamp,date,time,text,sentiment_score,emotion
+0db89e23,2025-04-29 11:44:54.009176,2025-04-29,11:44:54,I'm feeling good today,0.78,Positive
+0db89e23,2025-04-29 11:45:14.114717,2025-04-29,11:45:14,I'm feeling bad today,0.2083333333333334,Negative
+e86578b0,2025-04-29 11:50:43.223625,2025-04-29,11:50:43,I’m feeling good today.,0.78,Positive
+c0aade93,2025-04-29 14:13:25.781359,2025-04-29,14:13:25,I feel excited about the new project!,0.6024180010330579,Positive
+c0aade93,2025-04-29 14:17:08.478951,2025-04-29,14:17:08,Nothing seems to be going right lately.,0.4972002551020408,Neutral
+c0aade93,2025-04-29 14:17:29.708907,2025-04-29,14:17:29,I’m tired and not able to focus.,0.3649218749999999,Negative
+c0aade93,2025-04-29 14:18:03.528263,2025-04-29,14:18:03,I feel like I’m under a lot of pressure.,0.5,Neutral
+c0aade93,2025-04-29 14:18:24.895174,2025-04-29,14:18:24,I don’t think I’m being productive at all.,0.5,Neutral
+c0aade93,2025-04-29 14:18:52.292870,2025-04-29,14:18:52,I’m tired and not able to focus.,0.3649218749999999,Negative
+ca7f0396,2025-04-29 14:42:15.299817,2025-04-29,14:42:15,I'm very happy.,1.0,Positive
+37c4b5d6,2025-04-29 15:00:27.116659,2025-04-29,15:00:27,I'm very happy,1.0,Positive
+37c4b5d6,2025-04-29 15:02:43.955440,2025-04-29,15:02:43,I'm very happy.,1.0,Positive
+fe0194b2,2025-04-29 17:46:32.276236,2025-04-29,17:46:32,I'm very happy.,1.0,Positive
+c713aeec,2025-04-30 18:10:58.718469,2025-04-30,18:10:58,I'm very happy.,1.0,Positive
+ba836585,2025-04-30 21:03:26.025596,2025-04-30,21:03:26,I am feeling very happy.,1.0,Positive
+ba836585,2025-04-30 21:05:29.833747,2025-04-30,21:05:29,I am feeling very sad.,0.175,Negative
+3e8d65e8,2025-05-01 12:46:12.097321,2025-05-01,12:46:12,It’s an average day.,0.4475,Neutral
+973b7281,2025-05-02 11:42:04.358772,2025-05-02,11:42:04,I'm very sad.,0.175,Negative
+66347d5b,2025-05-02 11:49:36.261362,2025-05-02,11:49:36,I'm feeling neutral.,0.5,Neutral
+66347d5b,2025-05-02 11:52:14.001014,2025-05-02,11:52:14,I'm feeling fresh and delighted.,0.7,Positive
+66347d5b,2025-05-02 11:59:28.822254,2025-05-02,11:59:28,I'm feeling fresh and delighted.,0.7,Positive
+66347d5b,2025-05-02 11:59:37.771086,2025-05-02,11:59:37,I'm feeling fresh and delighted.,0.7,Positive
+6bda9d36,2025-06-09 08:32:10.779170,2025-06-09,08:32:10,I'm feeling jolly.,0.5,Neutral
+6bda9d36,2025-06-09 08:33:59.641341,2025-06-09,08:33:59,I'm depressed.,0.5,Neutral
+6bda9d36,2025-06-09 08:34:06.287145,2025-06-09,08:34:06,I'm depressed.,0.5,Neutral
+6bda9d36,2025-06-09 08:34:12.527996,2025-06-09,08:34:12,I'm depressed.,0.5,Neutral
+7148bcfc,2025-06-09 08:34:27.758209,2025-06-09,08:34:27,I'm depressed.,0.5,Neutral
+7148bcfc,2025-06-09 08:34:37.416776,2025-06-09,08:34:37,I'm sad.,0.25,Negative
+d1cab6fb,2025-07-06 19:09:50.418856,2025-07-06,19:09:50,"Not in the best mood, I’ve had a rough morning.",0.651875,Positive
+2157829b,2025-07-06 19:11:01.566343,2025-07-06,19:11:01,Feeling stressed and mentally tired.,0.3299999999999999,Negative
+2157829b,2025-07-06 19:12:53.531349,2025-07-06,19:12:53,I’m feeling low and overwhelmed today.,0.5,Neutral
+2157829b,2025-07-06 19:14:24.301659,2025-07-06,19:14:24,"Nothing much, just steady and calm.",0.5824074074074074,Neutral
+f3d8abc9,2025-07-07 12:10:28.240981,2025-07-07,12:10:28,I'm feeling very excited and energetic today.,0.71447265625,Positive
+f3d8abc9,2025-07-07 12:11:10.160594,2025-07-07,12:11:10,Feeling stressed and mentally tired.,0.3299999999999999,Negative
+017399ac,2025-07-07 12:18:59.079319,2025-07-07,12:18:59,"Nothing much, just steady and calm.",0.5824074074074074,Neutral
+d4858041,2025-07-07 13:57:45.520205,2025-07-07,13:57:45,I'm not happy.,0.3,Negative
